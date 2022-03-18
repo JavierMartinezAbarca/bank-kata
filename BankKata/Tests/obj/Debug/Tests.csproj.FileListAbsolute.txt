@@ -18,3 +18,11 @@ C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\obj\Debug\Tests.csproj.Co
 C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\obj\Debug\Tests.csproj.CopyComplete
 C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\obj\Debug\Tests.dll
 C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\obj\Debug\Tests.pdb
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\Castle.Core.dll
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\Moq.dll
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\Castle.Core.xml
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\Moq.xml
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
