@@ -1,0 +1,6 @@
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Code\bin\Debug\Code.dll
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Code\bin\Debug\Code.pdb
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Code\obj\Debug\Code.dll
+C:\Users\Carles\RiderProjects\bank-kata\BankKata\Code\obj\Debug\Code.pdb

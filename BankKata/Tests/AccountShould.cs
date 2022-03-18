@@ -3,7 +3,7 @@ using Xunit;
 
 namespace Tests
 {
-    public class Tests
+    public class AccountShould
     {
         [Fact]
         public void Test1()
